@@ -1,3 +1,6 @@
+- Experiment with Claude Code
+
+
 # Web Image Intensity Calculator API
 
 A REST API built in Rust that calculates the average intensity of uploaded images. This service provides a simple HTTP endpoint for image analysis with built-in Swagger documentation.
