@@ -121,7 +121,7 @@ The API provides clear error responses:
 
 ## Frontend Integration
 
-This API is designed to work with web frontends. A companion frontend project is available at [imag2intensity](../imag2intensity/) that provides a minimalist interface for uploading images and displaying results.
+This API is designed to work with web frontends. A companion frontend project is available at [claude-test-image-intensity-front-end](https://github.com/year221/claude-test-image-intensity-front-end) that provides a minimalist interface for uploading images and displaying results.
 
 ## CORS Configuration
 
